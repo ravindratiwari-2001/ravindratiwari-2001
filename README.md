@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me:
-- 👋 Hi, I’m Aman Singh
+- 👋 Hi, I’m Ravindra Tiwari
 - 👀 Interests: Full Stack Web Development, Android Development Competitive Programming
 - 🌱 I’m currently learning Flutter.
 - 📫 Connect with me on LikendIn : https://www.linkedin.com/in/ravindra-tiwari-4248b2173/
